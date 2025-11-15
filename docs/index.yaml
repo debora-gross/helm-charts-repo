@@ -17,7 +17,7 @@ entries:
       tanzuCategory: service
     apiVersion: v2
     appVersion: 18.1.0
-    created: "2025-11-15T13:33:28.339213Z"
+    created: "2025-11-15T14:20:49.104006Z"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -46,4 +46,4 @@ entries:
     urls:
     - https://debora-gross.github.io/helm-charts-repo/postgresql-18.1.9.tgz
     version: 18.1.9
-generated: "2025-11-15T13:33:28.333666Z"
+generated: "2025-11-15T14:20:49.095063Z"
